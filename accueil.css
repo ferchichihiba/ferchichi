@@ -1,0 +1,31 @@
+.texte{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 35pt;
+    color: rgb(253, 4, 4);
+    text-shadow: 2px 3px 5px rgb(230, 40, 40);
+    font-size: 45pt;
+}
+.niveau1{
+    border: 0px;
+    width: 1350px;
+    padding: 50px;
+    
+}
+.def{
+   text-shadow: red;
+   font-size: 60pt;
+}
+.abc{
+    color: rgb(217, 100, 100);
+    background-color: #d3cdcd;
+    border-radius: 70px;
+    box-shadow: 2px,3px,5px red;
+}
+.def a:hover{
+    color: rgb(235, 235, 118);
+    transition: .4s;
+}
+.def a{
+    color: black
+}

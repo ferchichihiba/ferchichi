@@ -1,0 +1,44 @@
+.sr{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 35pt;
+    color: red;
+    text-shadow: 2px 3px 5px rgb(224, 120, 120);
+}
+.pc{
+    border: 0px;
+    width: 1350px;
+    padding: 30px;
+}
+.hiba{
+    color: rgb(85, 68, 201);
+    background-color: #cecece;
+    border-radius: 50px;
+    box-shadow: 2px,3px,5px rgb(252, 2, 2);
+    padding: 20px;
+}
+.cl{
+    text-shadow: 2px,3px,5px gray;
+   font-size: 40px;
+   
+}
+.ln{
+    color: black;
+    font-size: 40px;
+}
+.cl a{
+    color: rgb(46, 39, 39);
+}
+.ln a{
+    color: rgb(130, 58, 198);
+}
+.ln a:hover{
+    color: palevioletred;
+    transition: .4s;
+}
+.cl a:hover{
+    color: rgb(152, 183, 91);
+    transition: .4s;
+}
+    
+

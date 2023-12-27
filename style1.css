@@ -1,0 +1,28 @@
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: 35pt;
+    color: rgb(244, 13, 13);
+    text-shadow: 2px 3px 5px rgb(219, 43, 43);
+    font-size: 50pt;
+}
+.niveau2{
+    border: 0px;
+    width: 1350px;
+    padding: 20px;
+}
+.def1{
+    text-shadow: 2px,3px,5px gray;
+   font-size: 50px;
+}
+.abcd{
+    color: red;
+    background-color: #e1dada;
+    border-radius: 50px;
+    box-shadow: 2px,3px,5px red;
+    padding: 20px;
+}
+.def1 a:hover{
+    color: rgb(208, 148, 70);
+    transition: .4s;
+}
